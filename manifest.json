@@ -1,0 +1,12 @@
+{
+"name": " Calander-App",
+"short_name": " Calander-App",
+"description": "Simple app where you can see how many days there are until Christmas, Gradution, Birthday...",
+"start_url": "./index.html",
+"id": "./index.html",
+"display": "standalone",
+"background_color": "#ffffff",
+"theme_color": "#ffffff",
+"orientation": "portrait"
+
+}
