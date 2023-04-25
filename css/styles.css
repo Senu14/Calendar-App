@@ -88,3 +88,19 @@
   img {
     max-width: 100%;
   }
+  .contaner-plus{
+    margin-top: 3em;
+    display: flex;
+    justify-content: center;
+  }
+  .plus{
+    max-width: 10%;
+  
+  
+  }
+  .minus{
+    max-width: 15%;
+    position: absolute;
+    bottom: 88%;
+   left:85%;
+  }
